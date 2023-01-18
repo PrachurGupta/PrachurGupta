@@ -15,7 +15,7 @@
   />
 </p>
 
--  I’m currently learning **JS, CSS, HTML** 
+-  I’m currently learning **React, JS, CSS, HTML** 
 -  I’m looking to collaborate on **Web Development Projects** 
 -  Kindly reach me through **prachur12@gmail.com**
 
